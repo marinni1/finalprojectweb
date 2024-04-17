@@ -1,0 +1,49 @@
+h1 {
+    font-size: 92px;
+    font-family: inter;
+    font-weight: 800;
+    margin-top: 40px;
+    margin-left: 378px;
+    margin-right: 378px;
+    letter-spacing: -3.68px;
+text-transform: uppercase;
+}
+
+.img-triangles {
+    margin-top: 40px;
+    margin-left: 53px;
+    margin-right: 1073px;
+}
+
+.img-circles {
+    margin-top: 40px;
+    margin-left: 28px;
+}
+
+h2 { 
+    font-family: Inter;
+    font-size: 78px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 84%; /* 65.52px */
+    letter-spacing: -3.12px;
+    text-transform: uppercase;
+}
+
+h4 {
+    font-family: "Roboto Mono";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 110%; /* 17.6px */
+    text-transform: uppercase;
+}
+
+nav p {   
+font-family: Roboto;
+font-size: 13px;
+font-style: normal;
+font-weight: 700;
+line-height: 100%; /* 13px */
+text-transform: uppercase;
+}
