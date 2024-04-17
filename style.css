@@ -11,6 +11,16 @@
     margin-left: 0;
 }
 
+.section3 {
+    position: absolute;
+    width: 1440px;
+    height: 810px;
+    background-image: url('Imgs/Model.png');
+    background-size: cover;
+    margin-top: 2000px;
+    margin-left: 0;
+}
+
 .h11 {
     position: absolute;
     font-size: 92px;
@@ -236,4 +246,188 @@
     height: 452px;
     margin-top: 1340px;
     margin-left: 1346px;
+}
+
+.glassText1 {
+    position: absolute;
+    color: grey;
+    font-weight: bold;
+    font-family: 'Roboto';
+    font-size: 13px;
+    width: 142px;
+    margin-top: 1800px;
+    margin-left: 378px;
+}
+
+.glassText2 {
+    position: absolute;
+    color: grey;
+    font-weight: bold;
+    font-family: 'Roboto';
+    font-size: 13px;
+    width: 142px;
+    margin-top: 1800px;
+    margin-left: 862px;
+}
+
+.glassText3 {
+    position: absolute;
+    color: grey;
+    font-weight: bold;
+    font-family: 'Roboto';
+    font-size: 13px;
+    width: 142px;
+    margin-top: 1800px;
+    margin-left: 1346px;
+}
+
+.glassText11 {
+    position: absolute;
+    color: black;
+    font-weight: 700;
+    font-family: 'Roboto';
+    font-size: 18px;
+    width: 142px;
+    margin-top: 1825px;
+    margin-left: 378px;
+}
+
+.glassText21 {
+    position: absolute;
+    color: black;
+    font-weight: 700;
+    font-family: 'Roboto';
+    font-size: 18px;
+    width: 142px;
+    margin-top: 1825px;
+    margin-left: 862px;
+}
+
+.glassText31 {
+    position: absolute;
+    color: black;
+    font-weight: 700;
+    font-family: 'Roboto';
+    font-size: 18px;
+    width: 142px;
+    margin-top: 1825px;
+    margin-left: 1346px;
+}
+
+.glassText12 {
+    position: absolute;
+    color: black;
+    font-weight: 700;
+    font-family: 'Roboto';
+    font-size: 18px;
+    width: 142px;
+    margin-top: 1825px;
+    margin-left: 750px;
+}
+
+.glassText22 {
+    position: absolute;
+    color: black;
+    font-weight: 700;
+    font-family: 'Roboto';
+    font-size: 18px;
+    width: 142px;
+    margin-top: 1825px;
+    margin-left: 1230px;
+}
+
+.glassText32 {
+    position: absolute;
+    color: black;
+    font-weight: 700;
+    font-family: 'Roboto';
+    font-size: 18px;
+    width: 142px;
+    margin-top: 1825px;
+    margin-left: 1715px;
+}
+
+.section3 {
+    position: absolute;
+    width: 1440px;
+    height: 1139px;
+    background-image: url('Imgs/Model.png');
+    background-size: cover;
+    margin-top: 2000px;
+    margin-left: 0;
+}
+
+.h21 {
+    position: absolute;
+    font-family: 'Inter', sans-serif;
+    font-size: 78px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 84%;
+    letter-spacing: -3.12px;
+    text-transform: uppercase;
+    width: 684px;
+    color: white;
+    margin-top: 100px;
+    margin-left: 738px;
+}
+
+.p1 {
+    position: absolute;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    width: 327px;
+    margin-top: 1114px;
+    margin-left: 1079px;
+    color: white;
+}
+
+.p2 {
+    position: absolute;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    width: 327px;
+    margin-top: 1114px;
+    margin-left: 1079px;
+    color: white;
+}
+
+.p3 {
+    position: absolute;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    width: 327px;
+    margin-top: 1114px;
+    margin-left: 1079px;
+    color: white;
+}
+
+.p4 {
+    position: absolute;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    width: 327px;
+    margin-top: 1114px;
+    margin-left: 1079px;
+    color: white;
+}
+
+.p5 {
+    position: absolute;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    width: 327px;
+    margin-top: 1114px;
+    margin-left: 1079px;
+    color: white;
 }
