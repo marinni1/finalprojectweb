@@ -198,11 +198,42 @@
     color: black;
 }
 
-/* 
+.img-left{
+    position: absolute;
+    margin-top: 1787px;
+    margin-left: 30px;
+    height: 60px;
+    width: 60px;
+}
 
-.img-glasses {
+.img-right{
+    position: absolute;
+    margin-top: 1787px;
+    margin-left: 99px;
+    height: 60px;
+    width: 60px;
+}
+
+.img-glasses1 {
     position: absolute;
     width: 452px;
     height: 452px;
-    flex-shrink: 0;
-} */
+    margin-top: 1340px;
+    margin-left: 378px;
+}
+
+.img-glasses2 {
+    position: absolute;
+    width: 452px;
+    height: 452px;
+    margin-top: 1340px;
+    margin-left: 862px;
+}
+
+.img-glasses3 {
+    position: absolute;
+    width: 452px;
+    height: 452px;
+    margin-top: 1340px;
+    margin-left: 1346px;
+}
