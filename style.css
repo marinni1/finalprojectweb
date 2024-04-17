@@ -375,12 +375,11 @@
 .p1 {
     position: absolute;
     font-family: 'Roboto';
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    width: 327px;
-    margin-top: 1114px;
-    margin-left: 1079px;
+    font-size: 11px;
+    font-weight: bold;
+    width: 143px;
+    margin-top: 721px;
+    margin-left: 968px;
     color: white;
 }
 
@@ -388,11 +387,10 @@
     position: absolute;
     font-family: 'Roboto';
     font-size: 16px;
-    font-style: normal;
     font-weight: 500;
     width: 327px;
-    margin-top: 1114px;
-    margin-left: 1079px;
+    margin-top: 766px;
+    margin-left: 963px;
     color: white;
 }
 
@@ -403,8 +401,8 @@
     font-style: normal;
     font-weight: 500;
     width: 327px;
-    margin-top: 1114px;
-    margin-left: 1079px;
+    margin-top: 829px;
+    margin-left: 963px;
     color: white;
 }
 
@@ -415,8 +413,8 @@
     font-style: normal;
     font-weight: 500;
     width: 327px;
-    margin-top: 1114px;
-    margin-left: 1079px;
+    margin-top: 892px;
+    margin-left: 963px;
     color: white;
 }
 
@@ -427,7 +425,39 @@
     font-style: normal;
     font-weight: 500;
     width: 327px;
-    margin-top: 1114px;
-    margin-left: 1079px;
+    margin-top: 955px;
+    margin-left: 963px;
     color: white;
+}
+
+.img-diagonal{
+    position: absolute;
+    height: 8px;
+    width: 8px;
+    margin-left: 1266px;
+}
+
+.linea {
+    position: absolute;
+    width: 310px;
+    background-color: white;
+    height: 2px;
+    margin-left: 963px;
+}
+
+.form {
+    position: absolute;
+    width: 388px;
+    height: 330px;
+    margin-left: 145px;
+    margin-top: 721px;
+    background-color: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(8px);
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.form button{
+    margin-top: 15px;
+    margin-left: 110px;
 }
