@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+.sectionAbout{
+    position: absolute;
+    width: 1440px;
+    height: 810px;
+    margin-top: 0px;
+    margin-left: 0;
+    background-color: black;
+}
+
+.pHeader {
+    position: absolute;
+    font-family: 'Roboto';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    width: 77px;
+    color: white;
+}
+
+.btnCart{
+    position: absolute;
+    font-family: 'Roboto';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    height: 43px;
+    width: 91px;
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 40px;
+    margin-left: 1253px;
+}
+
+.img-triangles {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 150px;
+    margin-right: 1073px;
+    width: 213.347px;
+    height: 204.657px;
+}
+
+.img-circles {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 28px;
+    width: 40px;
+    height: 23px;
+}
+
+.img-burger{
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 1393px;
+    height: 16px;
+    width: 16px;
+}
+
+.img-back {
+    position: absolute;
+    height: 787px;
+    width: 810px;
+}
+
+.p1 {
+    position: absolute;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 850px;
+    margin-top: 250px;
+    width: 77px;
+    color: white;
+}
+
+.p2 {
+    position: absolute;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 900px;
+    margin-top: 300px;
+    width: 499px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.p3 {
+    position: absolute;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 1068px;
+    margin-top: 508px;
+    color: white;
+    text-decoration: underline;
+}
+
+.h2 {
+    position: absolute;
+    font-family: 'Inter', sans-serif;
+    font-size: 78px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 84%;
+    letter-spacing: -3.12px;
+    text-transform: uppercase;
+    width: 785px;
+    color: white;
+    margin-top: 601px;
+    margin-left: 189px;
+}
